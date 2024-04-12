@@ -1,4 +1,4 @@
-# Chinese-STD-GB-T-7714-arXiv  
+# Chinese-STD-GB-T-7714-preprint
 在此基础上修改而来，只针对arXiv预印本修改：  
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl)  
 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl)  
